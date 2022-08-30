@@ -2,4 +2,4 @@
 
 *We create, we automate, we innovate.*
 
-![](infinity_loader.gif)
+![](infinity_corporation.gif)
