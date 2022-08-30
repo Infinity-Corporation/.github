@@ -1,3 +1,3 @@
-## Infinity Corporation 🤖
+# Infinity Corporation 🤖
 
-We create, we automate, we innovate.
+*We create, we automate, we innovate.*
