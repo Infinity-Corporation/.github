@@ -1,3 +1,3 @@
 # Infinitylogin
 
-![](../profile/resources/img/il-logo-text-black.png)
+![](../il-logo-text-black.png)
