@@ -1,5 +1,3 @@
-# Infinity Corporation 🤖
+# Infinitylogin
 
-*We create, we automate, we innovate.*
-
-![](infinity_corporation.png)
+![](resources/img/il-logo-text-black.png)
